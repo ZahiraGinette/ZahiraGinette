@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hola, mi nombre es Zahira
+### Desarrolladora Trainee
 
-<!--
-**ZahiraBarriento/ZahiraBarriento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+En Diciembre del año 2020 me recibí de Técnica Universitaria en Programación en la Universidad Tecnológica Nacional, quiero adentrarme en el mundo laboral de la programación, dispuesta a aprender nuevas tecnologías y mejorar.
 
-Here are some ideas to get you started:
+## Skills:
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+</br>
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
+</br>
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+</br>
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahira-ginette-barriento-877867197/)
+[![Web](https://img.shields.io/badge/My_Website-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]()
+</br>
+[![Email](https://img.shields.io/badge/zbarriento@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:zbarriento@gmail.com)
