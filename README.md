@@ -20,4 +20,4 @@ En Diciembre del año 2020 me recibí de Técnica Universitaria en Programación
 ## Contacto:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahira-ginette-barriento-877867197/)
-[![Email](https://img.shields.io/badge/zbarriento@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:zbarriento@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zbarriento@gmail.com)
