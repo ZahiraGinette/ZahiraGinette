@@ -1,7 +1,7 @@
 # Hola, mi nombre es Zahira
 ### Programadora Jr
 
-En Diciembre del año 2020 me recibí de Técnica Universitaria en Programación en la Universidad Tecnológica Nacional, actualmente trabajo para Sistran Consultores.
+En Diciembre del año 2020 me recibí de Técnica Universitaria en Programación en la Universidad Tecnológica Nacional.
 
 ## Skills:
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
